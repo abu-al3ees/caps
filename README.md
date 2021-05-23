@@ -2,10 +2,10 @@
 
 -------
 
-[pull req]()
+[pull req](https://github.com/abu-al3ees/caps/pull/2)
 
 -----
-[action]()
+[action](https://github.com/abu-al3ees/caps/actions)
 
 -----
 ![uml](./uml.png)
